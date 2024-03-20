@@ -6,3 +6,5 @@
 - - -
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peks-dev&layout=compact)
+
+<a href="https://app.daily.dev/elpeks"><img src="https://api.daily.dev/devcards/v2/EvahK9Tm5aHwpCccKuChK.png?type=default&r=eje" width="356" alt="peks's Dev Card"/></a>
